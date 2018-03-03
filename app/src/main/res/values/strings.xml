@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PAB</string>
+    <string name="hint_et">Input Angka</string>
+</resources>
